@@ -1,0 +1,6 @@
+.vscode
+RSS_aggregator.exe
+.env
+vendor
+*.mod
+*.sum
